@@ -1,15 +1,18 @@
-Countries economic wealth and assets dashboard
+# Countries economic wealth and assets dashboard
 
 This dashboard was made using mostly boostrap, plotly and flask.
 
-Prerequisites
+## Installation
 
-Install python3
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install required libraries.
 
-Install the packages with
+```bash
+pip install -r requirements.txt
+```
 
- pip install -r requirements.txt
-
-Installing
+## Usage
 
 Open a terminal, and go into the app directory. Run python worldbank.py in the terminal.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
